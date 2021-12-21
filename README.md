@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Savindra</h1>
+<h1>Hey there, I'm <a  href="https://github.com/savindrasinghshekhawat/">Savindra </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">Student, Web and App Dev, An Aspiring Data Scientist</h3>
 
 - 🏫 Student **@IIT Madras**
@@ -10,6 +10,9 @@
 - 💬 Ask me about **Python, Java, HTML, JS, CSS, SQL**
 
 - 📨 Feel free to mail me **shekhawatsavindra@gmail.com**
+
+- 🔍 I’m looking forward to contribute to **Open Source Projects**.
+- ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
 
 
 <h3>Connect with me:</h3>
