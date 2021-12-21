@@ -12,7 +12,7 @@
 - 📨 Feel free to mail me **shekhawatsavindra@gmail.com**
 
 - 🔍 I’m looking forward to contribute to **Open Source Projects**.
-- ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
+- ⚡ Fun fact: The root is at the top of the tree.
 
 
 <h3>Connect with me:</h3>
