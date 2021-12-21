@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Savindra</h1>
 <h3 align="center">Student, web dev, app dev, passionate learner</h3>
 
-- 🌱 Student **@IIT Madras**
+- 🏫 Student **@IIT Madras**
 
-- 🌱 I’m currently learning **dart and flutter**
+- 💻 I’m currently learning **dart and flutter**
 
 <!--- 👨‍💻 All of my projects are available at <a href="https://rahman24.github.io" target="_blank">**https://rahman24.github.io**</a>
 -->
 - 💬 Ask me about **Python, Java, HTML, JS, CSS, SQL**
 
-- 📫 Feel free to mail me me **shekhawatsavindra@gmail.com**
+- 📨 Feel free to mail me me **shekhawatsavindra@gmail.com**
 
 
 <h3>Connect with me:</h3>
