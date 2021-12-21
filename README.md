@@ -1,6 +1,9 @@
 <h1>Hey there, I'm <a  href="https://github.com/savindrasinghshekhawat/">Savindra </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">Student, Web and App Dev, An Aspiring Data Scientist</h3>
 
+![](https://komarev.com/ghpvc/?username=savindrasinghshekhawat)
+
+
 - 🏫 Student **@IIT Madras**
 
 - 💻 I’m currently learning **dart and flutter**
