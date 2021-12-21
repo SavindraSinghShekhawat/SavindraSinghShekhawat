@@ -13,7 +13,7 @@
 
 
 <h3>Connect with me:</h3>
-<a href="https://instagram.com/noufal0024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noufal0024" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/noufal-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noufal-rahman" height="30" width="40" /></a>
+<a href="https://www.instagram.com/savi._.150412/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noufal0024" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/savindra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noufal-rahman" height="30" width="40" /></a>
 
 
