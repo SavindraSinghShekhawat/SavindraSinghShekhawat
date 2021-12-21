@@ -9,7 +9,7 @@
 -->
 - 💬 Ask me about **Python, Java, HTML, JS, CSS, SQL**
 
-- 📨 Feel free to mail me me **shekhawatsavindra@gmail.com**
+- 📨 Feel free to mail me **shekhawatsavindra@gmail.com**
 
 
 <h3>Connect with me:</h3>
