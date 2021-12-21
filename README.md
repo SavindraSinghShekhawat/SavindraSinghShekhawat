@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Savindra</h1>
-<h3 align="center">Student, web dev, app dev, passionate learner</h3>
+<h3 align="center">Student, Web and App Dev, An Aspiring Data Scientist</h3>
 
 - 🏫 Student **@IIT Madras**
 
