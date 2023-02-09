@@ -8,7 +8,7 @@
 
 - 💻 I’m currently learning **dart and flutter**
 
-- 👨‍💻 My Portfolio is available at <a href="https://savindra.me/" target="_blank">**https://savindra.me/**</a>
+- 👨‍💻 My Portfolio is available at <a href="https://savindrasinghshekhawat.github.io/" target="_blank">**https://savindra.me/**</a>
 
 - 💬 Ask me about **Python, Java, HTML, JS, CSS, SQL**
 
