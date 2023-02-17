@@ -8,7 +8,7 @@
 
 - 💻 I’m currently learning **Polars**
 
-- 👨‍💻 My Portfolio is available at <a href="https://savindrasinghshekhawat.github.io/" target="_blank">**savindra.me/**</a>
+- 👨‍💻 My Portfolio is available at <a href="https://savindrasinghshekhawat.github.io/" target="_blank">**savindra.me**</a>
 
 - 💬 Ask me about **Python, Java, HTML, JS, CSS, SQL**
 
