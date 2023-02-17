@@ -6,7 +6,7 @@
 
 - 🏫 Student **@IIT Madras**
 
-- 💻 I’m currently learning **dart and flutter**
+- 💻 I’m currently learning **Polars**
 
 - 👨‍💻 My Portfolio is available at <a href="https://savindrasinghshekhawat.github.io/" target="_blank">**https://savindra.me/**</a>
 
