@@ -1,16 +1,16 @@
 <h1>Hey there, I'm <a  href="https://github.com/savindrasinghshekhawat/">Savindra </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">Student, Web and App Dev, An Aspiring Data Scientist</h3>
+<h3 align="center">Data Scientist, Web and App Dev.</h3>
 
 ![](https://komarev.com/ghpvc/?username=savindrasinghshekhawat)
 
 
-- 🏫 Student **@IIT Madras**
+- 🏫 Alumnus **@IIT Madras**
 
-- 💻 I’m currently learning **Polars**
+- 💻 I’m currently learning **LLMs**
 
 - 👨‍💻 My Portfolio is available at <a href="https://savindrasinghshekhawat.github.io/" target="_blank">**savindra.me**</a>
 
-- 💬 Ask me about **Python, Java, HTML, JS, CSS, SQL**
+- 💬 Ask me about **AI, ML, Python, Java, HTML, JS, CSS, SQL**
 
 - 📨 Feel free to mail me **shekhawatsavindra@gmail.com**
 
